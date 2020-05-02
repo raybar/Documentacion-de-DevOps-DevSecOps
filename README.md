@@ -3,7 +3,7 @@
 *Nota: Actualmente se encuentra en construcción.*
 
 ## Tabla de contenidos
-1. [Acerca del FAQ](#acerca)  
+1. [Acerca de Documentacion de DevOps & DevSecOps](#acerca)  
 2. [Disclaimer](#disclaimer)
 3. [¿Quién soy?](#quien)
 4. [Bibliografia](#Bibliografia)

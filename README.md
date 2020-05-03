@@ -22,7 +22,7 @@ Toda la información contenida en este documento, es una recopilación personal 
 # ¿Quién soy?
 <a name="quien"/>
 
-Mi nombre es Rubén Darío Aybar, soy un apasionado por la Seguridad Informatica y Ciberseguridad, Area en las que vengo trabajando e investigando desde hace 14 años para diferentes organizaciones publicas y privadas de Argentina.
+Mi nombre es [Rubén Darío Aybar](https://www.linkedin.com/in/raybar18), soy un apasionado por la Seguridad Informatica y Ciberseguridad, Area en las que vengo trabajando e investigando desde hace 14 años para diferentes organizaciones publicas y privadas de Argentina.
 
 A comienzo de este año 2020 cree la [Comunidad Hack The Planet](https://twitter.com/H4ckThePl4net) de Argentina, la cual es una comunidad hacker para compartir conocimiento y se generar networking entre sus miembros, a la organizacion tambien se fueron sumando [Jorge Martin Vila](https://twitter.com/J0rg3M4rt1n) y [Diego Bruno](https://twitter.com/BlackMantisSeg) con los que estamos llevando adelante la Comunidad.
 

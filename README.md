@@ -54,6 +54,9 @@ response,» Tech Trends 2019. Beyond the digital frontier, 2019.
 
 [8] D. Gonzalez, Implementing Modern DevOps, Birmingham: Packt Publishing Ltd., 2017.
 
+[9] J.Manuel Ortega, DevOps and Containers Security, BPB Online Ltd., 2020.
+https://bpbonline.com/products/devops-and-containers-security-book-ebook
+
 ## Sitios
 <a name="Sites"/>
 
